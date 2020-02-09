@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Helvetica Neue';
+  font-family: 'Arial';
   padding-top: 54px;
   color: #868e96;
 }
@@ -43,7 +43,7 @@ h3 {
 }
 
 p.lead {
-  font-family: 'Helvetica Neue';
+  font-family: 'Arial';
   font-size: 1.15rem;
   font-weight: 400;
 }
